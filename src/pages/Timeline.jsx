@@ -405,7 +405,7 @@ const Timeline = () => {
       <div className='container mx-auto px-4 py-12'>
         <div className='max-w-5xl mx-auto'>
           <div className='mb-8'>
-            <h1 className='text-3xl md:text-4xl font-bold mb-4'>Wedding Day Timeline Generator</h1>
+            <h1 className='text-3xl md:text-4xl font-bold mb-4 text-center'>Wedding Day Timeline Generator</h1>
             <p className='text-secondary-300 max-w-2xl mx-auto text-center'>Plan the perfect wedding day schedule to ensure beautiful photos and a stress-free experience.</p>
           </div>
 
