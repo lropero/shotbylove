@@ -1,8 +1,10 @@
+#header {
+  padding: 1em 2em;
+}
+
 #root {
-  max-width: 1280px;
-  margin: 0 auto;
-  padding: 2rem;
-  text-align: center;
+  margin: 0;
+  padding: 0;
 }
 
 .logo {
@@ -39,4 +41,8 @@
 
 .read-the-docs {
   color: #888;
+}
+
+.rdp-caption_label {
+  margin-left: 12px;
 }
