@@ -44,7 +44,7 @@ const Testimonials = () => {
       location: 'Hummingbird Nest Ranch',
       category: 'cultural',
       quote: "As a couple with specific cultural wedding traditions, we were worried about finding a photographer who would understand their significance. Dreams Collective took the time to learn about our customs and captured them with such respect and beauty. They weren't just photographers—they became storytellers of our heritage.",
-      imageSrc: 'https://images.unsplash.com/photo-1525328437458-0c4d4db7cab4?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80'
+      imageSrc: 'https://images.unsplash.com/photo-1519741497674-611481863552?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80'
     },
     {
       id: 5,
@@ -63,7 +63,7 @@ const Testimonials = () => {
       location: 'The Resort at Pelican Hill',
       category: 'luxury',
       quote: "I'm usually so uncomfortable being photographed, but they made us feel so at ease. It was like having friends with cameras rather than formal photographers. The candid moments they captured are beyond precious - all the little looks and touches between us that tell our love story.",
-      imageSrc: 'https://images.unsplash.com/photo-1494790108377-be9c29b29330?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=774&q=80'
+      imageSrc: 'https://images.unsplash.com/photo-1520854221256-17451cc331bf?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80'
     },
     {
       id: 7,
